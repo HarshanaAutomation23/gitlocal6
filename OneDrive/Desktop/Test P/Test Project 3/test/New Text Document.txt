@@ -1,0 +1,13 @@
+Book Fair Expenses
+------------------------
+Highway tickets 2400
+Bus Makuburata to Thummulla 280
+Threeweel Thummulla to BMICH 200
+PickMe 1600
+Sub Total 4480
+Koththu Me 460
+Cream Soda 300
+Chocolate 1000
+Rice 2730
+Sub Total 4490
+Grand Total 8970
